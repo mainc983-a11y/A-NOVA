@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
-    "@rollup/rollup-linux-x64-gnu": "^4.62.0",
     "@supabase/supabase-js": "^2.107.0",
     "@tailwindcss/vite": "^4.1.14",
     "@vitejs/plugin-react": "^5.0.4",
