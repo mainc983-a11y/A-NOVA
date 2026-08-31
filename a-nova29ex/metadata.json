@@ -1,6 +1,0 @@
-{
-  "name": "A-NOVA",
-  "description": "A-NOVA SIH26107 Bureau of Indian Standards (BIS) AI Assistant — Smart Standard Finder, Certification Guide, Hallmarking Assistant, Testing Laboratory Guidance & Document Intelligence powered by the advanced Gemini API.",
-  "requestFramePermissions": ["camera", "microphone", "geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
